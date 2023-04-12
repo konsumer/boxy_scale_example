@@ -7,9 +7,6 @@ license       = "MIT"
 srcDir        = "src"
 bin           = @["boxy_scale"]
 
-
-# Dependencies
-
 requires "nim >= 1.6.10"
 requires "boxy >= 0.4.1"
 requires "windy >= 0.0.0"
